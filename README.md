@@ -79,12 +79,18 @@ Total Loss = Classification Loss + λ × Sparsity Loss
 ## Project Structure
 
 self-pruning-nn/
+
 │
 ├── model.py # Prunable layer + network
+
 ├── train.py # Training + evaluation
+
 ├── utils.py # Sparsity calculation
+
 ├── compression.py # Compression ratio
+
 ├── report.md # Case study report
+
 └── README.md
 
 
@@ -93,8 +99,11 @@ self-pruning-nn/
 ## How to Run
 
 pip install torch torchvision matplotlib
+
 python train.py
+
 python compression.py
+
 
 ## Conclusion
 
