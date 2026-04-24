@@ -1,1 +1,0 @@
-# self_pruning_nn
