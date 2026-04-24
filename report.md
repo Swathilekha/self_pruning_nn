@@ -1,6 +1,6 @@
 # Self-Pruning Neural Network
 
-Please refer to `final_submission.py` for the complete implementation as required in the assignment.
+Please refer to `self_pruning_nn.py` for the complete implementation as required in the assignment.
 
 ## 1. Introduction
 
