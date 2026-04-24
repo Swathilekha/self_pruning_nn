@@ -1,5 +1,7 @@
 # Self-Pruning Neural Network
 
+Please refer to `final_submission.py` for the complete implementation as required in the assignment.
+
 ## 1. Introduction
 
 In real-world scenarios, deploying large neural networks is constrained by memory and computational efficiency. Pruning is a technique used to remove unnecessary weights from a model. In this project, we implement a **self-pruning neural network** that learns to prune itself during training using a learnable gating mechanism.
