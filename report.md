@@ -104,6 +104,7 @@ This clear separation confirms that the network successfully distinguishes betwe
 ## 7. Gate Distribution Plot
 
 ![Gate Distribution](gate_distribution.png)
+
 The plot shows a prominent spike near zero, indicating that a large number of weights have been effectively pruned. A smaller cluster of values away from zero represents important connections retained by the network.
 
 ---
